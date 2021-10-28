@@ -23,11 +23,11 @@
             "value": ""
         },
         "UPDATE_CHANNEL": {
-            "description": "Channel User Name Without @ Eg Mo_Tech_YT",
+            "description": "Channel User Name Without @ Eg Z Bots",
             "value": "MT_Botz"
         },
         "BOT_OWNER": {
-            "description": "Owner Id From @MT_Id_Bot",
+            "description": "Owner Id From Rose Bot",
             "value": ""
         },
         "DATABASE_URL": {
