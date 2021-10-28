@@ -234,7 +234,7 @@ async def telegraph_upload(bot, update):
         print(error)
         return
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @MT_Botz",
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @Z_Bots",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -243,10 +243,10 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
                 [  
-                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/FayasNoushad")
+                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://t.me/Z_Bots")
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50')
+                    InlineKeyboardButton('⚡Join Now ⚡', url='https://t.me/Z_Bots')
                 ]
             ]
         )
