@@ -1,14 +1,14 @@
 {
     "name": "Telegraph Bot",
-    "description": "A Id Bot by @MRK_YT",
+    "description": "A Id Bot by @Z_Bots",
     "keywords": [
         "Telegram",
         "Id",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://t.me/Z_Bots",
+    "repository": "https://github.com/madtoazenzio/Telegram-V2-Z",
+    "success_url": "https://t.me/Z_Bots",
     "env": {
         "API_ID": {
             "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
