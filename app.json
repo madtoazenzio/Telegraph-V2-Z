@@ -27,7 +27,7 @@
             "value": "MT_Botz"
         },
         "BOT_OWNER": {
-            "description": "Owner Id From Rose Bot",
+            "description": "Owner Id From @Z_id_bot ",
             "value": ""
         },
         "DATABASE_URL": {
